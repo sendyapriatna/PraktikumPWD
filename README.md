@@ -5,6 +5,6 @@
 
 ### Kumpulan File Kegiatan Praktikum PWD
 
-# 1. PHP Web Application 
-# 2. Database
-# 3. CRUD
+1. PHP Web Application 
+2. Database
+3. CRUD
